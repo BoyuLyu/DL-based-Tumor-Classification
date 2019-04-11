@@ -22,20 +22,7 @@ https://www.arc.vt.edu/computing/newriver/
 
 # Citation 
 Please cite:
-@inproceedings{Lyu:2018:DLB:3233547.3233588,
- author = {Lyu, Boyu and Haque, Anamul},
- title = {Deep Learning Based Tumor Type Classification Using Gene Expression Data},
- booktitle = {Proceedings of the 2018 ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics},
- series = {BCB '18},
- year = {2018},
- isbn = {978-1-4503-5794-4},
- location = {Washington, DC, USA},
- pages = {89--96},
- numpages = {8},
- url = {http://doi.acm.org/10.1145/3233547.3233588},
- doi = {10.1145/3233547.3233588},
- acmid = {3233588},
- publisher = {ACM},
- address = {New York, NY, USA},
- keywords = {convolutional neural network, deep learning, pan-cancer atlas, tumor type classification},
-} 
+
+https://dl.acm.org/citation.cfm?id=3233588
+
+Boyu Lyu and Anamul Haque. 2018. Deep Learning Based Tumor Type Classification Using Gene Expression Data. In Proceedings of the 2018 ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB '18). ACM, New York, NY, USA, 89-96. DOI: https://doi.org/10.1145/3233547.3233588
