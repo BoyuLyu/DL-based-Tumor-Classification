@@ -7,11 +7,11 @@ In the folder "model" are the codes used for this paper. The main parts are the 
 # Data
 (1) Raw data from Broad Institute Firehose
 
-https://virginiatech-my.sharepoint.com/:u:/g/personal/boyu93_vt_edu/EX83oKOMrKJKnGzfwuQvUgcBoERS0kUB-eQOQOwk2ZBuxw?e=hL0H0S
+https://virginiatech-my.sharepoint.com/:u:/g/personal/boyu93_vt_edu/EX83oKOMrKJKnGzfwuQvUgcBNkNbztr2BLZYfnkw2IG9dA?e=GpT61r
 
 (2) Data after preprocessing (training & testing images 102x102)
 
-https://virginiatech-my.sharepoint.com/:u:/g/personal/boyu93_vt_edu/EVsGVrZghoBCiNel6sKQYbABTcLnNbxuaUgP8IsASigmrg?e=ynhXRv
+https://virginiatech-my.sharepoint.com/:u:/g/personal/boyu93_vt_edu/EVsGVrZghoBCiNel6sKQYbABeU5xevv-y_LgIltYVEMDuw?e=WLBcew
 
 
 Each of the subfolder contains the images used for training and testing for each fold in the cross validation. Also, the weights trained after each fold are included (.pth file).
