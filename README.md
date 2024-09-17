@@ -15,6 +15,7 @@ https://virginiatech-my.sharepoint.com/:u:/g/personal/boyu93_vt_edu/EVsGVrZghoBC
 
 
 Each of the subfolder contains the images used for training and testing for each fold in the cross validation. Also, the weights trained after each fold are included (.pth file).
+Feel free to send me an Email if the link is expired.
 
 # Hardware
 
